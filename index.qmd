@@ -15,3 +15,7 @@ format:
     style="width:500px;height:500px">
 </lord-icon>
 
+::: footer
+R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
+:::
+
