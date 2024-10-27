@@ -1,0 +1,17 @@
+---
+title: R/Pharma 2024
+format:
+  revealjs:
+    logo: logotext_small.png
+    footer: R/Pharma 2024
+---
+
+## Welcome to R/Pharma 2024
+
+<script src="https://cdn.lordicon.com/lordicon-1.1.0.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/lupuorrc.json"
+    trigger="loop"
+    style="width:500px;height:500px">
+</lord-icon>
+
