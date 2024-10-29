@@ -46,6 +46,7 @@ R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 ## R/Pharma 2024
 
+::: {.incremental}
 -  R/Pharma @ posit::conf 2024
     -  Roundtable summit at posit::conf 2024.
     -  Over 100 representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech.
@@ -54,6 +55,7 @@ R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 -  R/Pharma Hangouts
 -  Community Newsletter (LinkedIn)
 -  R/Pharma genAI Day (Sept 17)
+:::
 
 ## R/Pharma APAC Track
 
