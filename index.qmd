@@ -20,6 +20,11 @@ title-slide-attributes:
     style="width:500px;height:500px">
 </lord-icon>
 
+::: right
+These slides: 
+[danielinteractive.github.io/rpharma-apac-2024](https://danielinteractive.github.io/rpharma-apac-2024/)
+:::
+
 ::: footer
 R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 :::
