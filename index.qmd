@@ -25,7 +25,7 @@ R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 -  General Guidelines
     -  Terms and conditions - check the website at rinpharma.com/post/faq/.
     -  R/Pharma is a non-commercial conference.  Vendors are welcome to attend but as practitioners, not salespeople.
-    -  Please be patient with us - virtual is different.  First year on Zoom Events.
+    -  Please be patient with us - virtual is different.  This is our first year hosting on Zoom Events.
 -  Asking for help
     - Slack: reach out in the **#help-me** channel in rinpharmaconf (**rinpharmaconf.slack.com**)
     -  Reach out in the **conference chat**
@@ -48,13 +48,12 @@ R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 ::: {.incremental}
 -  R/Pharma @ posit::conf 2024
-    -  Roundtable summit at posit::conf 2024.
-    -  Over 100 representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech.
+    -  Roundtable summit at posit::conf 2024. Over 100  representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech.
     -  Notes and follow-ups will be online shortly.
 -  R/Pharma Diversity Alliance
 -  R/Pharma Hangouts
--  Community Newsletter (LinkedIn)
 -  R/Pharma genAI Day (Sept 17)
+-  Community Newsletter (LinkedIn)
 :::
 
 ## R/Pharma APAC Track
@@ -118,10 +117,11 @@ Joe Zhu
 
 ## Brian Bole Award of Excellence
 
+::: {.incremental}
 -  Brian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny.
 -  The Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences.
 -  This year we're proud to present it to the R Consortium working group for submissions for their incredible work in pushing boundaries for submissions to regulatory agencies.
-
+:::
 
 ## Thank You to R/Pharma Sponsors!
 
@@ -133,9 +133,10 @@ Joe Zhu
 ## R/Pharma 2024 Virtual
 
 -  Before/after R/Pharma and during breaks
-    -  Stretch, network, visit Expo
+    -  Network and visit Expo
+        -  Showcase your open source and community contributions in an Expo booth (link in chat)
 -  Celebrating R/Pharma
     -  Online merchandise store (https://www.bonfire.com/store/open-source-in-pharma/)
     -  #rinpharma in social media
 -  R/Pharma Halloween: Sharing "Horror Stories" about R and open source
-    -  Google Form shared in chat
+    -  link in chat
