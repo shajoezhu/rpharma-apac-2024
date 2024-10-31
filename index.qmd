@@ -22,7 +22,7 @@ title-slide-attributes:
 
 ::: right
 These slides: 
-[danielinteractive.github.io/rpharma-apac-2024](https://danielinteractive.github.io/rpharma-apac-2024/)
+[shajoezhu.github.io/rpharma-apac-2024](https://shajoezhu.github.io/rpharma-apac-2024/)
 :::
 
 ::: footer
